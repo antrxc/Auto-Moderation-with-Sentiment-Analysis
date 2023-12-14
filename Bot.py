@@ -17,7 +17,7 @@ warnings = {}
 
 @bot.event
 async def on_ready():
-  print("I'm ready")
+  print("I'm ready.")
 
 
 @bot.event
