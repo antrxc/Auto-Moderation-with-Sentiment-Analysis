@@ -1,5 +1,4 @@
-I'd be glad to explain the code you provided:
-
+**ReadMe**
 **Imports:**
 
 - `discord`: This library is used to interact with the Discord API, allowing the code to connect to a Discord server and send/receive messages.
